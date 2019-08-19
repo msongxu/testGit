@@ -1,0 +1,5 @@
+if  [ -z $string  ]             如果string 为空，则为真 
+
+ps -ef|grep java     查看java进程
+
+netstat -anlp | grep 8080
